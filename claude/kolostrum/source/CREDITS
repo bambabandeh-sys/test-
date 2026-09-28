@@ -1,0 +1,7 @@
+Kolostrum – Crayon Picture Book (Lemo-Opuscar-Stil)
+Bild, Musik, Geräusche: vollständig im Code erzeugt.
+
+Stimme: Piper TTS (github.com/rhasspy/piper, MIT), Stimme „Thorsten“ (de-thorsten-low) aus dem Thorsten-Voice-Datensatz (CC0)
+Schriften: Patrick Hand, Gaegu – SIL Open Font License (fonts/*_OFL.txt)
+Instrumente (Samples): siehe core/audio/INSTRUMENTS.md – VSCO 2 CE (CC0) u. a.; Spieluhr/Spielzeugklavier synthetisch
+Engine: Wachsmalstift/Wasserfarben-Compositor aus styles/crayon-book/demo (MIT)

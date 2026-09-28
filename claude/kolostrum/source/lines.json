@@ -1,0 +1,14 @@
+[
+ {"id": "n1", "text": "Das Erste, was jedes Säugetier im Leben bekommt,", "voice": "de-thorsten-low", "len": 1.08, "say": "Das Erste, was jedes Säuge-Tier im Leben bekommt,"},
+ {"id": "n2", "text": "ist keine Milch.", "voice": "de-thorsten-low", "len": 1.08},
+ {"id": "n3", "text": "Es ist Kolostrum.", "voice": "de-thorsten-low", "len": 1.12, "say": "[[ ɛsɪst koːlˈɔstrʊm. ]]"},
+ {"id": "n4", "text": "Kälber, Babys, alle.", "voice": "de-thorsten-low", "len": 1.1, "say": "[[ kˈɛlbɐ, bˈeːbiːs, ˈalə. ]]"},
+ {"id": "n5", "text": "Danach nie wieder.", "voice": "de-thorsten-low", "len": 1.15},
+ {"id": "n6", "text": "Warum eigentlich?", "voice": "de-thorsten-low", "len": 1.1},
+ {"id": "n7", "text": "Andere Kulturen haben es gegessen,", "voice": "de-thorsten-low", "len": 1.06},
+ {"id": "n8", "text": "solange es Kühe und Ziegen gibt.", "voice": "de-thorsten-low", "len": 1.06},
+ {"id": "n9", "text": "Ich nehm zwei Kapseln am Morgen,", "voice": "de-thorsten-low", "len": 1.06},
+ {"id": "n10", "text": "seit zwei Jahren.", "voice": "de-thorsten-low", "len": 1.1},
+ {"id": "n11", "text": "Wenn du's testen willst:", "say": "Wenn dus testen willst:", "voice": "de-thorsten-low", "len": 1.08},
+ {"id": "n12", "text": "roroh.de", "say": "roroh punkt d e.", "voice": "de-thorsten-low", "len": 1.18}
+]
