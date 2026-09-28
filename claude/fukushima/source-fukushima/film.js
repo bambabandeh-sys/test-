@@ -176,7 +176,7 @@ function roomPlate(g, cc, t, { dark = null } = {}) {
   WC.drawStrokes(g, R.wall, { t }); WC.drawStrokes(g, R.floor, { t });
   R.desk.draw(g, t);
   R.ops.forEach(o => { o.body.draw(g, t); o.head.draw(g, t); });
-  R.boss.body.draw(g, t); R.boss.head.draw(g, t); R.boss.face.draw(g, t);
+  R.boss.body.draw(g, t); R.boss.head.draw(g, t); if (t > 1.5) R.boss.face.draw(g, t);   // weiße Haut erst, wenn sie geschnitten wird
   // Schichtleiter: Arm zeigt aufs Panel (beim Beben hoch)
   if (t < 1.9) return dark ? null : undefined;   // Arm erst, wenn der Schichtleiter geschnitten ist
   const up = ss(seg(t, T.quake + 0.3, T.quake + 0.9));
